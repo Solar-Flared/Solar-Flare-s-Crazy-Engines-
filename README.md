@@ -1,3 +1,3 @@
-# Spiceflight Simulator
+# Spice+
 This mod is all about SPICE!
 ALPHA 1

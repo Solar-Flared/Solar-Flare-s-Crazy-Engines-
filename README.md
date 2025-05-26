@@ -1,3 +1,3 @@
-# Solar-Flare-s-Crazy-Engines-
-this is Undoubtedly the single worse mod in SFS history.
+# Spiceflight Simulator
+This mod is all about SPICE!
 ALPHA 1
